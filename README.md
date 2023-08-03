@@ -3,7 +3,7 @@ This is a code stream for pressure drop based on foam-extend-4.1.
 
 
 ## Mathematical Relationships
-$$ Q = \left({1 \over A} {\int p \ dA} \right) $$
+$$ Q = {\left({1 \over A} {\int p \ dA} \right)}_{outlet} $$
 
 Which $Q$, $U$, and $dA$ are flow rate, velocity vector, and area element, respectively.
 
