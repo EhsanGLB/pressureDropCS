@@ -5,7 +5,7 @@ This is a code stream for pressure drop based on foam-extend-4.1.
 ## Mathematical Relationships
 $$ {\Delta p }= {\left({1 \over A} {\int p \ dA} \right)}_{outlet-inlet}  $$
 
-Which $Q$, $U$, and $dA$ are flow rate, velocity vector, and area element, respectively.
+Which $\Delta p$, $p$, and $dA$ are pressure difference, pressure, and area element, respectively.
 
 
 ## Installation
