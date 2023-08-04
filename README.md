@@ -1,5 +1,5 @@
 # pressureDropCS
-This is a code stream for pressure drop based on foam-extend-4.1.
+This is a code stream for pressure drop written based on foam-extend-4.1.
 
 
 ## Mathematical Relationships
